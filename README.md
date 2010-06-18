@@ -20,4 +20,4 @@ I wrote this in 5 minutes, so it's really basic. Daemonisation would be nice I g
 
 Licence
 -------
-MIT
+Copyright © 2010 Myles Eftos www.madpilot.com.au/contact, released under the MIT license
